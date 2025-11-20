@@ -8,4 +8,4 @@ The goal was to build a basic webpage using proper HTML5 semantics and structure
 3. Content organization structuring content with appropriate heading hierarchy (`<h1>` to `<h3>`).
 3. Media elements embedding images with alt text for accessibility.
 4. Lists implementing both ordered (`<ol>`) and unordered (`<ul>`) lists.
-5. Text formatting using `<strong>` and `<em>` for text emphasis
+5. Text formatting using `<strong>` and `<em>` for text emphasis.
