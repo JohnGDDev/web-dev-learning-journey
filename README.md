@@ -1,18 +1,22 @@
 # Web Development Learning Journey
 
-Welcome to my journey of becoming a Full Stack Developer!  
-I’m documenting everything I learn — from HTML and CSS to JavaScript and backend development.
+Welcome to my journey to becoming a Full Stack Developer!  
+This repository documents my weekly progress as I learn HTML, CSS, JavaScript, and beyond.
 
-## 📘 Sections
-1. **HTML** – Structure, elements, and semantic tags  
-2. **CSS** – Styling, layouts, and responsive design  
-3. **JavaScript** – Logic and interactivity (coming soon)
+## 🧱 Current Focus
+- ✅ HTML Fundamentals
+- 🚧 CSS Styling and Layouts
+- 🔜 JavaScript Interactivity
 
 ## 🎯 Goals
 - Build consistency by coding every week  
-- Track my progress publicly  
-- Receive feedback and improve my skills  
+- Learn by doing — through workshops and labs  
+- Share progress publicly to stay accountable  
 
-## 🚀 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/john-guajardo-a97232289/
-- **GitHub:** https://github.com/JohnGDDev/
+## 📂 Structure
+- `01_HTML/` → HTML workshops and labs  
+- `02_CSS/` → CSS exercises and styling practice  
+
+## 🌐 Connect With Me
+- **GitHub:** [https://github.com/JohnGDDev](#)
+- **LinkedIn:** [https://linkedin.com/in/john-guajardo-a97232289](#)
