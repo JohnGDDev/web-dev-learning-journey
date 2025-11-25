@@ -25,6 +25,9 @@ h1 {
     border-radius: 10px;
     position: relative;
 }
+.todo-list {
+  padding: 0;
+}
 li {
     display: list-item;
     unicode-bidi: isolate;
